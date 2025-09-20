@@ -1,0 +1,17 @@
+Parameters:
+Output scale: 5e-5
+Kernel size: 4
+lr: 1e-2
+Number of Particles: 4e4
+Gaussian Blur Sigma: 3
+
+Model Parameters:
+model_dims: 16
+n_heads: 4
+num_layers: 2
+dim_feedforward: 32
+dropout: .1
+Epochs: 51
+Foreground weight: 10
+Background weight: 1
+Loss function: Weighted

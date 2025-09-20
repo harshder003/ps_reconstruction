@@ -1,0 +1,33 @@
+RECONSTRUCTED BEAM ANALYSIS RESULTS
+==================================================
+
+Analysis Date: 2025-06-17 14:12:05
+
+RECONSTRUCTED PARAMETERS:
+-------------------------
+Emittance x: 9.8152e-10 m.rad
+Alpha x: 0.6878
+Beta x: 3.2094 m
+
+Emittance y: 8.6941e-10 m.rad
+Alpha y: 0.9140
+Beta y: 4.9679 m
+
+FROM TOOL PARAMETERS:
+------------------
+Original Emittance x: 6.6457e-10 m.rad
+Original Alpha x: 0.9628
+Original Beta x: 5.3496 m
+
+Original Emittance y: 8.9075e-10 m.rad
+Original Alpha y: 1.1845
+Original Beta y: 6.0476 m
+
+ERROR ANALYSIS:
+---------------
+Emittance x error: 3.169546847203719e-10m.rad
+Emittance y error: 2.1342871914242778e-11m.rad
+Alpha x error: 0.27506518363952637
+Alpha y error: 0.27050238847732544
+Beta x error: 2.140170097351074
+Beta y error: 1.0797114372253418
